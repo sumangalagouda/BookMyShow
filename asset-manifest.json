@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BookMyShow/static/css/main.a6a5ece6.css",
-    "main.js": "/BookMyShow/static/js/main.a3305dfd.js",
+    "main.js": "/BookMyShow/static/js/main.f4710a03.js",
     "static/media/moviesection3.avif": "/BookMyShow/static/media/moviesection3.37fa2a03746ec7e46032.avif",
     "static/media/moviesection5.avif": "/BookMyShow/static/media/moviesection5.38335de4d820c71d74e8.avif",
     "static/media/movie2e.avif": "/BookMyShow/static/media/movie2e.5f5d38c4ec75d28a3243.avif",
@@ -31,10 +31,10 @@
     "static/media/evnt.avif": "/BookMyShow/static/media/evnt.0f483aa31b57ecb271b2.avif",
     "index.html": "/BookMyShow/index.html",
     "main.a6a5ece6.css.map": "/BookMyShow/static/css/main.a6a5ece6.css.map",
-    "main.a3305dfd.js.map": "/BookMyShow/static/js/main.a3305dfd.js.map"
+    "main.f4710a03.js.map": "/BookMyShow/static/js/main.f4710a03.js.map"
   },
   "entrypoints": [
     "static/css/main.a6a5ece6.css",
-    "static/js/main.a3305dfd.js"
+    "static/js/main.f4710a03.js"
   ]
 }
