@@ -63,7 +63,7 @@ function RecommendedMovies() {
     <div className="movies-section">
       <div className="movies-header">
         <h2>Recommended Movies</h2>
-        <a href="https://example.com" className="see-all">See All &gt;</a>
+        <a href="https://example.com" target="_blank" className="see-all">See All &gt;</a>
       </div>
 
       <div className="movies-container">
